@@ -2,7 +2,7 @@
   <div class="contentHero">
     <div class="contentProductHero">
         <div>
-          <h1>Sentí <br> descubrí<br> y conectá</h1>
+          <h1>Sentí, <br> descubrí,<br> y conectá</h1>
         </div>    
         <div>
             <h4>EXPERIENCIA SENSORIAL Y EMOCIONAL ÚNICA QUE VINCULA EL VINO CON EL AUTOCONOCIMIENTO, LA INTUICIÓN Y LA FILOSOFÍA</h4>
